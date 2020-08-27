@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SocialNet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Social net</string>
+    <string name="friends">Friends</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="privacy_level">
+        <item>Friends</item>
+        <item>Only Me</item>
+        <item>Public</item>
+    </string-array>
+</resources>

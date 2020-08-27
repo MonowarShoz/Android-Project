@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252749267975",
+    "firebase_url": "https://socialnet-cdee6.firebaseio.com",
+    "project_id": "socialnet-cdee6",
+    "storage_bucket": "socialnet-cdee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252749267975:android:93996963c85d70b1d996a2",
+        "android_client_info": {
+          "package_name": "com.Socialnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252749267975-g0fksd1o9oncosq2st191rnsvevo9mnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Socialnet",
+            "certificate_hash": "ea85f9a880374917d2b2b92b07ac813e9ee9a278"
+          }
+        },
+        {
+          "client_id": "252749267975-q72g9819trrsleepb834unke29iouoe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrcqV8PBMB2rWJYQbmP2ej47fPGChIpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252749267975-q72g9819trrsleepb834unke29iouoe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
